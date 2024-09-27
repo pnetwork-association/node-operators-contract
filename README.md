@@ -18,9 +18,8 @@ private key respectively into the `.env` file and run:
 forge create --verify --rpc-url polygon  PNetworkV4Nodes
 ```
 
-**Note:** the official contract has been deployed here
-https://polygonscan.com/address/0x228e705ad070def5072d283606d14dad7592377b
-
+**Note:** the official contract has been deployed here https://polygonscan.com/address/0x228e705ad070def5072d283606d14dad7592377b with one
+of the pNetwork Association key `0x984D8222e11afA2C4F6493BaF8b1f157C11d2629`.
 
 ## Scripts
 
